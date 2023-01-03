@@ -1,0 +1,1 @@
+theo ny.fbx borde vara riggad i en a-pose, har inte testat dock
